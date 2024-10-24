@@ -4,4 +4,5 @@ Users can navigate through the 3D world by dragging left and right, creating a c
 The island (the scene) moves in response to user input, enhancing the immersive experience.
 Added to that, a little car moves along designated checkpoints, guiding users through various content displays.
 It is fully responsive as well.
-Working on this project has definitly expanded my knowledge of Three.js and basics of computer graphics concepts.
+Working on this project has definitly expanded my knowledge of Three.js, basics of computer graphics concepts
+and Blender.
